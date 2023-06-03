@@ -1,0 +1,5 @@
+name: my-first_apifast
+env: python
+build_script:
+  - pip install -r requirements.txt
+  - python main.py
